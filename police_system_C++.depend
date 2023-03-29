@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1654937852 source:c:\users\adones\downloads\c++ project\police_system_c++\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<direct.h>
+	<process.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+
